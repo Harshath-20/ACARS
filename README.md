@@ -42,7 +42,8 @@ pip install -r requirements.txt
 
 ## 📦 Dataset Setup
 
-Place these files in the `datasets/` folder (from the Yelp Open Dataset):
+Place these files in the `datasets/` folder (from the Yelp Open Dataset(you can download from online file size is too big I can't upload it here):
+
 - `yelp_academic_dataset_review.json`
 - `yelp_academic_dataset_user.json`
 - `yelp_academic_dataset_business.json`
