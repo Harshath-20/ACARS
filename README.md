@@ -116,4 +116,4 @@ For research, academic evaluation, and production-ready recommendation systems.
 
 ## 📜 License
 
-MIT License — free to use, modify, and distribute with credit.
+MIT License
